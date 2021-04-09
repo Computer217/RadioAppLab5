@@ -6,10 +6,10 @@ public class RadioStationArray {
 
 
     public static RadioStation[] radioStations = {
-            new RadioStation("http://stream.whus.org:8000/whusfm","WHUS", "USA", "https://images.unsplash.com/photo-1616899822079-5e40267ebbc4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"),
-            new RadioStation("http://broadcast.miami/proxy/tkdisco?mp=/stream/;", "TKDISCO", "USA", "https://images.unsplash.com/photo-1594623930572-300a3011d9ae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"),
-            new RadioStation("http://5.39.71.159:8413/;","TECHNOWORLD","USA","https://images.unsplash.com/photo-1543379344-402b42ddbe8a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1300&q=80"),
-            new RadioStation("http://kteq-streamer.sdsmt.edu:8000/play","COLLEGEMUSIC","USA","https://images.unsplash.com/flagged/photo-1561203490-062f3051d6d7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80")
+            new RadioStation("http://stream.whus.org:8000/whusfm","WHUS", "USA", "https://images.unsplash.com/photo-1617889963256-c21f7a4acaa7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"),
+            new RadioStation("http://broadcast.miami/proxy/tkdisco?mp=/stream/;", "TKDISCO", "USA", "https://images.unsplash.com/photo-1617875473030-9a07df2e00fc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"),
+            new RadioStation("http://5.39.71.159:8413/;","TECHNOWORLD","USA","https://images.unsplash.com/photo-1589824783837-6169889fa20f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"),
+            new RadioStation("http://kteq-streamer.sdsmt.edu:8000/play","COLLEGEMUSIC","USA","https://images.unsplash.com/photo-1510251197878-a2e6d2cb590c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
     };
 
     public static String[] getArrayOfRadioLinks(){
